@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="angular.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/angular.blade.php">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34393063" vertical-offset="0" max-vertical-offset="1384">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3316474" vertical-offset="0" max-vertical-offset="1384">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,7 +51,6 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" />
         <option value="$PROJECT_DIR$/resources/views/blogs/index.blade.php" />
         <option value="$PROJECT_DIR$/public/js/angular.js" />
-        <option value="$PROJECT_DIR$/public/js/app.js" />
         <option value="$PROJECT_DIR$/resources/views/layout.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/angular.blade.php" />
         <option value="$PROJECT_DIR$/tests/ExampleTest.php" />
@@ -74,6 +73,7 @@
         <option value="$PROJECT_DIR$/vendor/alfred-nutile-inc/incomings-client/src/BaseProvider.php" />
         <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
       </list>
     </option>
   </component>
@@ -87,7 +87,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1124" />
+    <option name="x" value="1120" />
     <option name="y" value="26" />
     <option name="width" value="1436" />
     <option name="height" value="1406" />
@@ -119,37 +119,23 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo5" />
+              <option name="myItemId" value="intro to laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro_demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo5" />
+              <option name="myItemId" value="intro to laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="intro_demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo5" />
+              <option name="myItemId" value="intro to laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -163,7 +149,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo5" />
+              <option name="myItemId" value="intro to laravel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -189,7 +175,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo_101" />
     <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
   <component name="RecentsManager">
@@ -213,6 +199,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -220,9 +209,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -238,7 +224,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1124" y="26" width="1436" height="1406" extended-state="0" />
+    <frame x="1120" y="26" width="1436" height="1406" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -249,7 +235,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24582173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24582173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -279,6 +265,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/angular.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1292">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/angular.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="374533" max-vertical-offset="376703">
@@ -3282,11 +3276,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22109826" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.3316474" vertical-offset="0" max-vertical-offset="1384">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25794798" vertical-offset="0" max-vertical-offset="1384">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/blogs/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1384">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/messages.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1384">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/angular.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7615607" vertical-offset="0" max-vertical-offset="1384">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30708092" vertical-offset="0" max-vertical-offset="1384">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: &quot;vcs&quot;...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;App\\&quot;: &quot;app/&quot;...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -6142,100 +6194,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3316474" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder=" Bootstrap any application services. ..." />
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder=" Register any application services. ..." />
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452572000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25794798" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;type&quot;: &quot;vcs&quot;...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;App\\&quot;: &quot;app/&quot;...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1436453509000" expanded="true" signature="-1:-1" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25794798" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/blogs/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436452063000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/messages.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/angular.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34393063" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>

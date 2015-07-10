@@ -12,11 +12,11 @@
         function activate()
         {
             $http.get('/api/v1/blogs').then(
-                function(data)
+                function(response)
                 {
-                    console.log(data);
+                    console.log(response);
 
-                    vm.blogs = data.data;
+                    vm.blogs = response.data;
                 }
             );
         }
