@@ -13,7 +13,7 @@ class ExampleTest extends TestCase
      */
     public function testBasicExample()
     {
-        $this->visit('/blogs')
-             ->see("Blogs");
+        $this->visit('/')
+             ->see("Laravel");
     }
 }
