@@ -27,8 +27,8 @@ class AppServiceProvider extends ServiceProvider
             $this->app->register('Laralib\L5scaffold\GeneratorsServiceProvider');
         }
 
-        if ($this->app->environment() == 'local') {
-            $this->app->register('Laracasts\Generators\GeneratorsServiceProvider');
-        }
+//        if ($this->app->environment() == 'local') {
+//            $this->app->register('Laracasts\Generators\GeneratorsServiceProvider');
+//        }
     }
 }
